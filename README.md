@@ -13,9 +13,9 @@
 - Advanced SQL and distributed computing
 
 ## 💻 Projects
-- 📌 **Heart Disease Prediction on Databricks**
+- 📌 **Heart Disease EDA on Databricks**
 - 📌 **Telco Customer Churn EDA & Modeling**
-- 📌 **Kaggle datasets exploratory notebooks**
+- 📌 **Salary Prediction Of Employees Using Machine Learning On Python**
 
 ## 🤝 Looking to Collaborate On
 - Open-source data science projects
