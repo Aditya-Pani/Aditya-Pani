@@ -23,7 +23,7 @@
 - Business-focused data storytelling projects
 
 ## 📫 How to Reach Me
-- 📧 adityapani5@gmail.com
+- 📧 [Gmail](adityapani5@gmail.com)
 - 🧠 [Portfolio](https://github.com/Aditya-Pani)
 
 ## 😄 Pronouns
